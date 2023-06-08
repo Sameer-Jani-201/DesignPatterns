@@ -1,4 +1,4 @@
-package com.designpattern.factorypattern;
+package com.designpattern.creational.factorypattern;
 
 /*
  * This is Animal Factory class which produces Animals,

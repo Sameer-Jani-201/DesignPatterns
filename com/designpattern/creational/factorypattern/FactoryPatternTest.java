@@ -1,4 +1,4 @@
-package com.designpattern.factorypattern;
+package com.designpattern.creational.factorypattern;
 
 
 public class FactoryPatternTest {
