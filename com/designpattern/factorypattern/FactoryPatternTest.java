@@ -1,5 +1,6 @@
 package com.designpattern.factorypattern;
 
+
 public class FactoryPatternTest {
     public static void main(String[] args) {
         Animal dogAnimal = AnimalFactory.createAnimal(AnimalFactory.AnimalType.Dog);
