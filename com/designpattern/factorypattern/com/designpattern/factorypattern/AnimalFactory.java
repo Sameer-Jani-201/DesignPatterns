@@ -1,3 +1,8 @@
+package com.designpattern.factorypattern;
+
+import Cat;
+import Dog;
+import Fox;
 
 /*
  * This is Animal Factory class which produces Animals,

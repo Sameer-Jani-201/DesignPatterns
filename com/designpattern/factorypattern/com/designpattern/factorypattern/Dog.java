@@ -1,3 +1,5 @@
+package com.designpattern.factorypattern;
+
 public class Dog implements Animal{
 
     @Override

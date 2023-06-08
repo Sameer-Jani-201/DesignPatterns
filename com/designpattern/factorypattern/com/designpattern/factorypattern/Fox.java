@@ -1,3 +1,5 @@
+package com.designpattern.factorypattern;
+
 public class Fox implements Animal{
     @Override
     public void eat() {

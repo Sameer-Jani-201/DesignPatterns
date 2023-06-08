@@ -1,3 +1,5 @@
+package com.designpattern.factorypattern;
+
 public class Cat implements Animal{
     
     @Override
